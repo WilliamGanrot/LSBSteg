@@ -1,3 +1,6 @@
 # LSBSteg
-A terminal application that can performe stegongraphy on PNG imgaes.
-<h2>Usage</h2>
+A terminal application that can perform stegongraphy on PNG images.
+## Usage
+
+**Encode** `python3 steganography encode img.png`
+**Decode** `python3 steganography decode img.png`
